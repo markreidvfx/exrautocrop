@@ -1,0 +1,4 @@
+#!/bin/sh
+autoreconf --install --force
+
+echo "Now run ./configure, make, and make install."
